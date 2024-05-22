@@ -11,6 +11,3 @@ The DB file is a accdb file.
 ---------------------------------------------------------------------------------
 
 You need to install netbeanse 8.2 with JDK 8 and you need to insert the DB file as a new Data Source in ODBC Data Source Administrator and last thing you need to add jdbc.jar file to jdk bin file and add it to project source files.
-
-
-
