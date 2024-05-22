@@ -2,4 +2,4 @@ This project was implemented through an 8086x emulator in the Assembly language 
 
 ---------------------------------------------------------------------------------
 
-To Run this file youy need the to download the 8086x emulator.
+To run this file, you need to download the 8086x emulator.
