@@ -1,0 +1,7 @@
+Movie Name = 11 || length = 22 || rate = 33 || Date released = 44 || Category = 55 || Date of rental = 66 || Date of return = 77 || Customer name = 88
+Movie Name = 111 || length = 222 || rate = 333 || Date released = 444 || Category = 555 || Date of rental = 666 || Date of return = 777 || Customer name = 888
+Movie Name = Gladiator || length = 2h35m || rate = 8.5 || Date released = 5/5/2000 || Category = Adventure || Date of rental = 5/10/2023 || Date of return = 5/15/2023 || Customer name = Amed
+Movie Name = Noah || length = 222 || rate = 333 || Date released = 444 || Category = Adventure || Date of rental = 5/10/2023 || Date of return = 5/15/2023 || Customer name = Ameed
+Movie Name = The Conjuring 3 || length = 1h 52m || rate = 6.3 || Date released = 5/26/2021 || Category = Horror || Date of rental = null || Date of return = null || Customer name = 
+Movie Name = The Conjuring || length = 1h 52m || rate = 7.5 || Date released = 7/19/2013 || Category = Horror || Date of rental = null || Date of return = null || Customer name = null
+Movie Name = The Conjuring 2 || length = 2h 14m || rate = 7.3 || Date released = 6/10/2016 || Category = Horror || Date of rental = null || Date of return = null || Customer name = null
