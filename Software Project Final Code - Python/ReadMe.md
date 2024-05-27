@@ -6,8 +6,8 @@ You must run the final.py file, then choose the office’s account, arrange the 
 
 ---------------------------------------------------------------------------------
 
-You need to download customtkinter library and any python program or 
+You need to download customtkinter library and any python program or terminal
 
 ---------------------------------------------------------------------------------
 
-You can find out the details of the project in the file 
+You can find out the details of the project in the "final documentation.pdf" file 
